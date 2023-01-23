@@ -1,0 +1,189 @@
+body {
+    margin: 0;
+
+}
+
+p, h1, h2, a, li, {
+    margin: 0;
+    padding: 0;
+
+}
+
+.main {
+    margin: 0;
+}
+
+
+ .container {
+    background: url(img/Rectangle%201.png);
+    display: flex;
+}
+
+.main__photo {
+    margin-right: 5%;
+    margin-left: 10%;
+background: rgba(205, 214, 219, 0.1);
+
+}
+
+
+
+.photo {
+    width: 300px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.main__content {
+    margin-top: 100px;
+    width: 800px;
+    margin-right: 60px;
+}
+
+.name {
+    color: white;
+    font-family: Bold;
+    font-size: 64px;
+    margin: 0;
+
+
+}
+
+.main__p {
+    background: rgba(205, 214, 219, 0.3);
+    width: 160px;
+    color: white;
+    text-align: center;
+    font-family: Bold;
+    font-size: 24px;
+}
+
+.main__phone {
+    color: white;
+    font-family: Bold;
+    font-size: 16px;
+
+}
+
+.main__text {
+    display: flex;
+}
+
+.main__mail {
+    color: white;
+}
+
+.main__adress {
+    color: white;
+    margin-left: 100px;
+}
+
+.right__content {
+background: rgba(205, 214, 219, 0.6);
+    margin: 0;
+    width: 300px;
+}
+
+.container__2 {
+     margin-right: 10%;
+    margin-left: 10%;
+    display: flex;
+
+}
+
+.right__text {
+    padding: 5px 0 5px 50px;
+    line-height: 30px;
+    margin 10px 0 10px 0;
+}
+
+.right__h1 {
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+    font-family: Bold;
+    font-size: 36px;
+}
+
+.left__h1 {
+    margin: 0;
+    padding: 40px;
+    font-family: Bold;
+    font-size: 36px;
+}
+
+.left__item {
+    display: flex;
+}
+
+.left__text {
+    margin: 0;
+    padding: 5px 0 5px 50px;
+    line-height: 30px;
+    color: dimgray;
+}
+
+.left__text__2 {
+    margin: 0;
+    padding: 5px 0 5px 50px;
+    line-height: 30px;
+    width: 400px;
+    margin-left: 50px;
+    color: dimgray;
+}
+
+
+.right__li {
+    padding: 5px 0 5px 50px;
+    line-height: 30px;
+    margin 10px 0 10px 0;
+    list-style-type: none;
+}
+
+
+
+.color__text {
+    color: #6f6161;
+    font-family: Bold;
+    font-size: 20px;
+}
+
+
+.left__text__3 {
+    margin: 0;
+    padding: 5px 50px 5px 50px;
+    line-height: 30px;
+    color: dimgray;
+}
+
+.left__text__4 {
+    margin: 0;
+    padding: 5px 50px 5px 50px;
+    line-height: 30px;
+    color: dimgray;
+    margin-right: 200px;
+}
+
+.left__item__3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img__item__1 {
+    width: 15px;
+    height: 15px;
+    border-radius: 20px;
+
+}
+
+.img__item {
+    width: 15px;
+    height: 15px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
